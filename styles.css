@@ -1,0 +1,36 @@
+body {
+    background:darkcyan;
+    color:white;
+    margin: 0px;
+    font-family: "Anton SC", sans-serif;
+}
+
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size:32px;
+
+    
+}
+section{
+    background:navy;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content:center;
+    font-style: oblique;
+
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+h1{
+    font-size:40px
+}
+p{
+    font-size:20px
+}
+img{
+    height: 200px
+}
